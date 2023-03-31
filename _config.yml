@@ -13,7 +13,7 @@
 title: KNES 381 Final Project Website
 
 # Your name to show in the footer
-author: Some Person
+author: Tudor Muresan
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  GitHub: "https://github.com/Tudor-Muresan"
 
 ################
 # --- Logo --- #
