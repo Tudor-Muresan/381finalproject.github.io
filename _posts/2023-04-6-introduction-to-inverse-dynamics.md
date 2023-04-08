@@ -22,3 +22,6 @@ This formula uses Newton's second law of motion (F = M x A) to equate all forces
 In practise, this means that, so long as the ground reaction force is known, we are able to calculate the force within the ankle joint, which is then used to calculate the force in the knee joint, etc. This pattern is repeated until the segment of interest is reached. 
 
 Segment position data is supplied by motion capture analysis, which records the position of various reflective markers set upon the segment during a movement. As acceleration is the second derivative of position relative to time, numerical differentiation can be used to determine linear acceleration -- the acceleration of the segment's centre of mass. 
+
+
+### [FORWARD](https://tudor-muresan.github.io/2023-04-06-setup/)
