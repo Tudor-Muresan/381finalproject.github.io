@@ -14,4 +14,4 @@ Stance phase is traditionally defined by force plate data. Specifically, it is l
 
 As such, since force plate and motion capture data now share a length after interpolation, the stance phase of each dataset could be defined as between the indices A and B. 
 
-![StanceCOM](/assets/img/"Moving COM.PNG")
+![StanceCOM](/assets/img/MovingCOM.PNG)
