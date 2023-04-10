@@ -21,9 +21,7 @@ author: Tudor Muresan
 
 navbar-links:
   Directory: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Explanations: "explanation"
   GitHub: "https://github.com/Tudor-Muresan"
 
 ################
