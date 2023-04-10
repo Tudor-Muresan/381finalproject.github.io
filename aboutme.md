@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Page Directory
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Please use the following links to make your way to any post on this site. The links are in sequential order:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+1. [Introduction](https://tudor-muresan.github.io/2023-04-06-introduction-to-inverse-dynamics/)
+2. [Experimental Setup and Early Analysis](https://tudor-muresan.github.io/2023-04-06-setup/)
+3. [Finding Stance Phase](https://tudor-muresan.github.io/2023-04-07-finding-stance-phase/)
+4. [Numerical Differentiation](https://tudor-muresan.github.io/2023-04-06-numerical-differentiation/)
+5. [Finding Velocity](https://tudor-muresan.github.io/2023-04-07-finding-velocity/)
+6. [Correcting Velocity](https://tudor-muresan.github.io/2023-04-07-correcting-velocity/)
+7. [Correcting COM](https://tudor-muresan.github.io/2023-04-07-correcting-com/)
+8. [Finding Acceleration](https://tudor-muresan.github.io/2023-04-07-finding-acceleration/)
+9. [Finding Ankle Force](https://tudor-muresan.github.io/2023-04-07-finding-ankle-force/)
+10. [Ankle Force at Different Speeds](https://tudor-muresan.github.io/2023-04-07-ankle-force-at-different-speeds/)
+11. [Joint Torques](https://tudor-muresan.github.io/2023-04-07-joint-torques/)
+12. [Video Analysis: Joint Angle](https://tudor-muresan.github.io/2023-04-07-joint-angle/)
+13. [Further Inverse Dynamics](https://tudor-muresan.github.io/2023-04-07-future-inverse-dynamics/)
