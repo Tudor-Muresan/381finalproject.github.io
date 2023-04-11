@@ -11,3 +11,8 @@ As an example, below are the force and torque outputs for a running analysis tha
 ![Ankle joint force and torque during running](/assets/img/AnkleForceAndMoment.PNG)
 
 ![Knee joint force and torque during running](/assets/img/KneeForceAndMoment.PNG)
+
+
+### [This is the last page of the analsys, click here to get back to the main page](https://tudor-muresan.github.io/)
+
+### [← Joint Angle](https://tudor-muresan.github.io/2023-03-31-joint-angle/)
