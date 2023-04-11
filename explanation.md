@@ -11,4 +11,4 @@ However, the same Python script has been saved [into the same repository as this
 
 To get started on the story of this analysis, please click below to be taken to an Introduction of Inverse Dynamics. Each page will include links to the previous and succeeding pages for easy navigation. Please note that, due to the ordering of the pages, the 'Previous Post' and 'Next Post' buttons built into the website will take the reader to the opposite post (i.e., 'Previous Post' will redirect the browser to the next sequential post). Please use the links provided.
 
-### [→ Introduction to Inverse Dynamics](https://tudor-muresan.github.io/2023-04-11-introduction-to-inverse-dynamics/)
+### [→ Introduction to Inverse Dynamics](https://tudor-muresan.github.io/2023-04-11-introduction/)
