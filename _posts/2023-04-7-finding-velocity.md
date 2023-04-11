@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Finding Velocity 
-subtitle: One Segment at a Time
 tags: [Correcting Data]
 comments: true
 ---
@@ -15,3 +14,8 @@ However, since these data are originally from a treadmill experiment, the plante
 ![COM](/assets/img/MovingCOM.PNG)
 
 Though this should not majorly affect the COM acceleration required for the final analysis, it can be corrected for.
+
+
+### [→ Correcting Velocity](https://tudor-muresan.github.io/2023-04-06-correcting-velocity/)
+
+### [← Numerical Differentiation](https://tudor-muresan.github.io/2023-04-08-numerical-differentiation/)
