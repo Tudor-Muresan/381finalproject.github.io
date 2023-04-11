@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding Stance Phase
-tags: [Stance Phase, Introduction]
+tags: [Introduction]
 ---
 
 The datasets used in this analysis recorded subjects moving on a treadmill at a specified speed and include many individually recorded steps, as shown below. In this analysis, only the first complete step (stance phase) is of interest, and so it needed to be isolated from the rest of the dataset.
@@ -15,3 +15,8 @@ Stance phase is traditionally defined by force plate data. Specifically, it is l
 As such, since force plate and motion capture data now share a length after interpolation, the stance phase of each dataset could be defined as between the indices A and B. Below is an example of COM position once indices have been applied. 
 
 ![StanceCOM](/assets/img/MovingCOM.PNG)
+
+
+### [→ Numerical Differentiation](https://tudor-muresan.github.io/2023-04-08-numerical-differentiation/)
+
+### [← Experimental Setup and Early Analysis](https://tudor-muresan.github.io/2023-04-10-setup/)
