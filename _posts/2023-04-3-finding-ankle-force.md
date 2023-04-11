@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Finding Ankle Force
-tags: [Force]
+tags: [Output]
 comments: true
 ---
 
@@ -16,3 +16,8 @@ Force_x = (acceleration in the anterior-posterior) x (mass of the foot) – (gro
 Once mapped, these values can be linearly interpolated once again and fit to a length of 100, signifying 0-100% of stance phase. The final output for ankle force at 1.0 m/s is shown below.
 
 ![Ankle Force](/assets/img/Stance1.0.PNG)
+
+
+### [→ Ankle Force at Different Speeds](https://tudor-muresan.github.io/2023-04-02-ankle-force-at-different-speeds/)
+
+### [← Finding Acceleration](https://tudor-muresan.github.io/2023-04-04-finding-acceleration/)
