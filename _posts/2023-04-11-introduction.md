@@ -23,4 +23,4 @@ Segment position data is supplied by motion capture analysis, which records the 
 
 ### [→ Experimental Setup and Early Analysis](https://tudor-muresan.github.io/2023-04-10-setup/)
 
-### [← Explanation](https://tudor-muresan.github.io/2023-04-11-explanation/)
+### [← Explanation](https://tudor-muresan.github.io/2023-04-11-project-explanation/)
