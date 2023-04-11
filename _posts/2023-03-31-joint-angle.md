@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Joint Angle
-tags: [Torques]
+tags: [Joint Angle]
 comments: true
 ---
 
@@ -15,3 +15,9 @@ Such an analysis was conducted using Dartfish 10.0, though there were problems w
 The change in these angle values was also plotted below. In a full inverse dynamics analysis, this curve can be differentiated into angular velocity and acceleration, then used in a dynamic equilibrium equation to solve for joint moment.
 
 ![Joint Angle During Stance Phase](/assets/img/StanceAngle.png)
+
+
+
+### [→ Further Inverse Dynamics Analyses](https://tudor-muresan.github.io/2023-03-30-future-inverse-dynamics/)
+
+### [← Joint Torques](https://tudor-muresan.github.io/2023-04-01-joint-torques/)
