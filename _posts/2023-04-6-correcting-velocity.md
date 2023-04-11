@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Correcting Velocity
-tags: [Velocity]
+tags: [Correcting Data]
 comments: true
 ---
 
@@ -14,3 +14,8 @@ This constant value can either be input manually or calculated from the offset v
 Any value of the velocity curve from this phase may be used to find treadmill velocity, which can then be removed from this velocity curve to form a velocity graph relative to the treadmill (i.e., without the offset of the treadmill’s motion), as shown below. In this case, velocity during plant phase is 0, as it should be. 
 
 ![Normalised Velocity](/assets/img/NormalisedVelocity.PNG)
+
+
+### [→ Correcting COM](https://tudor-muresan.github.io/2023-04-05-correcting-com/)
+
+### [← Finding Velocity](https://tudor-muresan.github.io/2023-04-07-finding-velocity/)
