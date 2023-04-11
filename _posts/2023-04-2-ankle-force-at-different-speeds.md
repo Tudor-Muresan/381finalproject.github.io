@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ankle Force at Different Speeds
-tags: [Force]
+tags: [Output]
 comments: true
 ---
 
@@ -18,3 +18,8 @@ However, as speed is increased to 1.7 m/s, the two humps get closer together, an
 Similarly, as the speed is decreased to 0.6 m/s, the second hump is less defined:
 
 ![Walking at 1.0 m/s](/assets/img/Stance0.6.PNG)
+
+
+### [→ Joint Torques](https://tudor-muresan.github.io/2023-04-01-joint-torques/)
+
+### [← Finding Ankle Force](https://tudor-muresan.github.io/2023-04-03-finding-ankle-force/)
