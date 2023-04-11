@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Correcting COM
-tags: [Correction]
+tags: [Correcting Data, Calculus]
 comments: true
 ---
 
@@ -19,3 +19,8 @@ When this technique is applied to the normalised velocity, the following normali
 ![Normalised COM](/assets/img/StaticCOM.PNG)
 
 This graph is entirely as expected. The position of the COM in the anterior direction increases as the foot moves forward slightly at the start of stance phase, is constant when planted, and increases again when the foot is lifted. The vertical COM position, which has not been changed, is also as expected - the foot moves down onto the treadmill at the start, is planted in place, then rapidly rises. 
+
+
+### [→ Finding Acceleration](https://tudor-muresan.github.io/2023-04-04-finding-acceleration/)
+
+### [← Correcting Velocity](https://tudor-muresan.github.io/2023-04-06-correcting-velocity/)
