@@ -16,3 +16,8 @@ There are various numerical differentiation methods, some of which are more accu
 D(x) = (f(x+1) – f(x-1))/2T
 
 Where D(x) is the derivative of the function f(x), and T corresponds to the period of the function, the difference between successive points on the x-axis (i.e., the difference in time between when data points were recorded). 
+
+
+### [→ Finding Velocity](https://tudor-muresan.github.io/2023-04-07-finding-velocity/)
+
+### [← Finding Stance Phase](https://tudor-muresan.github.io/2023-04-09-finding-stance-phase/)
