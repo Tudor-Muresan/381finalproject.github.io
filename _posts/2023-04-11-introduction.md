@@ -12,7 +12,7 @@ Inverse dynamics is a data analysis process used to determine forces and torques
 Inverse dynamics works by utilising the dynamic equilibrium formula, which is as follows:
 
 {: .box-note}
-(Centre of mass acceleration) x (Segment mass) = ΣF**
+(Centre of mass acceleration) x (Segment mass) = ΣF
 
 This formula uses Newton's second law of motion (F = M x A) to equate all forces acting on an object to the product of that object's mass and its linear acceleration. When considering a series of objects in contact with each other, such as body segments contacting at joints, the force within a joint acts on both segments at the same time, only in opposite directions. This fact allows us to slowly 'move up' the body's segments if the external force applied to the first segment is known.
 
