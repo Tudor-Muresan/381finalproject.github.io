@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Project Explanation
+title: Initial Explanation
 tags: [Introduction]
 ---
 
