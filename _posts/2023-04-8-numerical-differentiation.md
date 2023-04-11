@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Numerical Differentiation
-subtitle: From Position to Velocity
 tags: [Calculus]
 comments: true
 ---
