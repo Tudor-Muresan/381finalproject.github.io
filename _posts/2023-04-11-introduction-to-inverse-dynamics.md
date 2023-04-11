@@ -1,9 +1,6 @@
 ---
 layout: post
 title: Introduction to Inverse Dynamics
-subtitle: One Segment at a Time
-gh-repo: daattali/beautiful-jekyll
-# gh-badge: [star, fork, follow]
 tags: [Introduction]
 comments: true
 ---
