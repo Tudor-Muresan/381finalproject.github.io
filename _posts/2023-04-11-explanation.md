@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 tags: [Introduction]
 title: Explanation
 ---
