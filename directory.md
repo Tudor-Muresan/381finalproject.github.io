@@ -5,7 +5,7 @@ title: Page Directory
 
 Please use the following links to make your way to any post on this site. The links are in sequential order:
 
-1. [Introduction](https://tudor-muresan.github.io/2023-04-06-introduction-to-inverse-dynamics/)
+1. [Introduction](https://tudor-muresan.github.io/2023-04-11-introduction-to-inverse-dynamics/)
 2. [Experimental Setup and Early Analysis](https://tudor-muresan.github.io/2023-04-10-setup/)
 3. [Finding Stance Phase](https://tudor-muresan.github.io/2023-04-09-finding-stance-phase/)
 4. [Numerical Differentiation](https://tudor-muresan.github.io/2023-04-08-numerical-differentiation/)
