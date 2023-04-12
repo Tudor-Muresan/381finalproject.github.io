@@ -10,8 +10,8 @@ The same analysis can be applied to different gait speeds, so long as both force
 Since ground reaction force is the main determinant of ankle force, the patterns in the latter will closely follow those of the former. For instance, the characteristic double hump profile of vertical walking ground reaction force is visible in the ankle force data when walking at 1.0 m/s:
 
 <p float="left">
-  <img src="/assets/img/Stance1.0.PNG" width="250"/>
-  <img src="/assets/img/StanceForce.PNG" width="250"/>
+  <img src="/assets/img/Stance1.0.PNG" width="350"/>
+  <img src="/assets/img/StanceForce.PNG" width="350"/>
 </p>
  
 However, as speed is increased to 1.7 m/s, the two humps get closer together, and the maximum force increases:
