@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Initial Explanation
+title: Project Explanation
 ---
 
 This website tells the story of a single inverse dynamics analysis through a number of blog posts. While the posts on the site's main page are in sequential order, [the directory](https://tudor-muresan.github.io/aboutme/) may be used to either access any of the pages or to observe their order. The directory may also be accessed from the top right of any page on this site, along with this page. 
