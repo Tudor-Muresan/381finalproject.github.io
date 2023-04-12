@@ -12,7 +12,7 @@ Such an analysis was conducted using Dartfish 10.0, though there were problems w
 [![Joint Angle Video Analysis](/assets/img/JointAngle.PNG)](https://youtu.be/v2kiBL9FuOI)
 *Please click on the image to be taken to the full video analysis*
 
-The change in these angle values was also plotted below. In a full inverse dynamics analysis, this curve can be differentiated into angular velocity and acceleration, then used in a dynamic equilibrium equation to solve for joint moment.
+The change in these angle values was also plotted below. In a full inverse dynamics analysis, this curve can be differentiated into angular velocity and acceleration, then used in a dynamic equilibrium equation to solve for joint moment. A spreadsheet with the resultant joint angles may be found [here](https://github.com/Tudor-Muresan/Tudor-Muresan.github.io/tree/master/Python).
 
 ![Joint Angle During Stance Phase](/assets/img/StanceAngle.png)
 
